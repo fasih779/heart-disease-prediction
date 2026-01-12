@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+env/
+.env
+.streamlit/
+.idea/
+.vscode/
+*.pkl
+*.csv
+# User asked to push the code, usually models and data are pushed in small projects but let's exclude standard temp files.
+# I will actually include the model and csv if they are core to the repo as it's a small project.
+# But I'll exclude standard python debris.
