@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart Disease Prediction System ❤️
 
 This project is a full-stack machine learning application that predicts the presence of heart disease based on patient health metrics. It features a robust **FastAPI** backend for serving the model and a modern **Streamlit** frontend for an interactive user experience.
@@ -75,3 +76,7 @@ The model expects the following features:
 
 ---
 Developed with ❤️ for health awareness.
+=======
+# heart-disease-prediction
+Heart Disease Prediction API using a Random Forest classifier trained on clinical features. The backend is implemented with FastAPI and Pydantic for input validation, and deployed in a Docker container for portable inference. The API returns human-readable predictions (Presence/Absence) and includes an interactive Swagger UI.
+>>>>>>> 31e8300e3aa0035a71f5b2f8c9c332ba668ba8c8
